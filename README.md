@@ -79,7 +79,7 @@
 <!-- ## 📝 Blogs
 
 <!-- BLOG-POST-LIST:START -->
-
+<!--
 - [5 Tips Every React Developer Should Know](https://dev.to/ruppysuppy/5-tips-every-react-developer-should-know-1ghh)
 - [5 Tips to Maximize Productivity Every Developer Must Know](https://dev.to/ruppysuppy/5-tips-to-maximize-productivity-every-developer-must-know-491e)
 - [Freelance Journey: Starting Off to Top Rated in 4 Months](https://dev.to/ruppysuppy/freelance-journey-starting-off-to-top-rated-in-4-months-3h8k)
