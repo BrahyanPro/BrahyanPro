@@ -1,16 +1,40 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-## 🚀 About Me
+<div align="center">
+<img hight="500" width="500" alt="GIF" align="center" src="https://i.giphy.com/media/G3FNI3FneNjiw/giphy.gif">
+</div>
 
-🎓I am Brayan Martínez, a **_full-stack web developer_**, who started his way in the world of the web this year, I think my age is irrelevant I prefer to judge my skills, but I am not of legal age yet
+<br/>
+<br/>
 
-👨‍💻 I enjoy building projects and am very excited about learning new technologies. In 2021, I have learned **Django**, **Reactjs**, **Javascript**, **Python**, **TypeScript**, and **Firebase**. So far, I want to learn **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Elixir**, **nodejs**, a little about **Three.js** and **Vercel**.
+## 🚀About Me
 
-🏀 Outside of the tech world too, I love pushing myself to develop new skills ranging from **Marketing**, **Finance**, **drawing**, **typing** to some crazy some like **Pull it from half the court in basketball**.
+#### 🎓 I am Brayan Martínez, a **_full-stack web developer_**, who started his way in the world of the web 3 years ago, I think my age is irrelevant I prefer to judge my skills, but I am 18 years old
 
-📚 I love reading books on **Actions Otaku** & **financial literacy**. My favorites ones are **One Piece** by *Eichiro Oda* in the genre of anime and **Think and Grow Rich** by *Napoleon Hill* in the genre of financial literacy.
+<img hight="400" width="500" alt="GIF" align="right" src="https://c.tenor.com/JsUuJJrIB0oAAAAC/monkey-d-luffy-luffy-smile.gif">
 
-✈️ I also love various **Cultures**. When I am of legal age my first destination will be **Japan**
+### - Learning 👨‍💻 :
+
+- ✨ Ruby on Rails
+- ✨ Three.js
+- ✨ GraphQL
+- ✨ C++
+- ✨ C#
+- ✨ A new student at [technological institute of the americas (ITLA)](https://itla.edu.do/)
+
+### - Hobbies :
+
+- ✨ Gaming Addict (LOL lover GG)
+- ✨ Watching Anime (One Piece Lover)
+- ✨ Read interesting books (My favorite is Lean Startup method)
+- ✨ Basseball & Basket (Neighbourhood Professional XD)
+- ✨ Tech Junkie
+
+#### ✈️ I also love various **Cultures**, my first destination is **Japan**
+
+<br/>
+<br/>
+
 
 ## 🛠️ Skills
 
@@ -54,7 +78,6 @@
 ![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-!
 
 ### Backend as a Service (BaaS)
 
@@ -76,17 +99,6 @@
 ![Arch Linux](https://img.shields.io/badge/arch-linux-4e2a8e?style=for-the-badge&logo=linux&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
-<!-- ## 📝 Blogs
-
-<!-- BLOG-POST-LIST:START -->
-<!--
-- [5 Tips Every React Developer Should Know](https://dev.to/ruppysuppy/5-tips-every-react-developer-should-know-1ghh)
-- [5 Tips to Maximize Productivity Every Developer Must Know](https://dev.to/ruppysuppy/5-tips-to-maximize-productivity-every-developer-must-know-491e)
-- [Freelance Journey: Starting Off to Top Rated in 4 Months](https://dev.to/ruppysuppy/freelance-journey-starting-off-to-top-rated-in-4-months-3h8k)
-- [Next-Gen Way to Connect Redux Store to React Component](https://dev.to/ruppysuppy/next-gen-way-to-connect-redux-store-to-react-component-5b57)
-- [How Pros Get Rid of Relative Imports](https://dev.to/ruppysuppy/how-pros-get-rid-of-relative-imports-in-js-ts-2i3f)
-  BLOG-POST-LIST:END -->
-
 ## 📈 Stats
 
 <div align="center">
@@ -101,9 +113,8 @@
 
 [![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/brahyanpro)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/BrahyanPro)
-
-<!-- [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://tapajyoti-bose.vercel.app/)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/tapajyoti-bose.appspot.com/o/Tapajyoti%20Bose.pdf?alt=media&token=68b3f3e3-cf56-4666-b4fa-9897c80eec2e)
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://brahyanpro.vercel.app/)
+<!-- [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/tapajyoti-bose.appspot.com/o/Tapajyoti%20Bose.pdf?alt=media&token=68b3f3e3-cf56-4666-b4fa-9897c80eec2e)
 [![upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c12e516ee1d35044)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tapajyoti-bose-429a601a0/) -->
 
