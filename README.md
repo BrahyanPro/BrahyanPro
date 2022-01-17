@@ -16,7 +16,7 @@
 ### - Learning 👨‍💻 :
 
 - ✨ Ruby on Rails
-- ✨ Three.js
+- ✨ AWS
 - ✨ GraphQL
 - ✨ C++
 - ✨ C#
