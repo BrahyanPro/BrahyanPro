@@ -1,36 +1,28 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
-
-<div align="center">
-<img hight="500" width="500" alt="GIF" align="center" src="https://i.giphy.com/media/G3FNI3FneNjiw/giphy.gif">
-</div>
+# Hola mundo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
 <br/>
 <br/>
 
-## 🚀About Me
+## 🚀 Sobre mí
 
-#### 🎓 I am Brayan Martínez, a **_full-stack web developer_**, who started his way in the world of the web 3 years ago, I think my age is irrelevant I prefer to judge my skills, but I am 18 years old
+#### 🎓 Brahyan Martínez, un desarrollador web, alguien que en 2017 inicio su camino en el mundo de la web, creo que mi edad es irrelevante prefiero juzguen mis habilidades, pero tengo 18 años
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://c.tenor.com/JsUuJJrIB0oAAAAC/monkey-d-luffy-luffy-smile.gif">
 
 ### - Learning 👨‍💻 :
 
 - ✨ Ruby on Rails
-- ✨ AWS
-- ✨ GraphQL
-- ✨ C++
-- ✨ C#
-- ✨ A new student at [technological institute of the americas (ITLA)](https://itla.edu.do/)
+- ✨ Tailwind
 
 ### - Hobbies :
 
-- ✨ Gaming Addict (LOL lover GG)
-- ✨ Watching Anime (One Piece Lover)
-- ✨ Read interesting books (My favorite is Lean Startup method)
-- ✨ Basseball & Basket (Neighbourhood Professional XD)
-- ✨ Tech Junkie
+- ✨ Jugar ajedrez
+- ✨ Mirar anime y leer mangas/manhwas (One Piece Lover)
+- ✨ Leer libros interesantes (Mi favorito es Lean Startup method)
+- ✨ Basseball y Bascket (Profesional de vecindario XD)
+- ✨ Adicto a la tecnología
 
-#### ✈️ I also love various **Cultures**, my first destination is **Japan**
+#### ✈️ Igualmente me interesan varias **Culturas**, mi primer destino es **Japon** (Como todo wen friki )
 
 <br/>
 <br/>
@@ -38,18 +30,12 @@
 
 ## 🛠️ Skills
 
-### Languages
+### Lenguajes
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Elixir](https://img.shields.io/badge/ELIXIR-4e2a8e?style=for-the-badge&logo=elixir&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Block-Chain Development
-
-![ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![web3](https://img.shields.io/badge/Web_3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ### Front-End Development
 
@@ -92,13 +78,6 @@
 ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
 
-## 🖥️ Workspace Setup
-
-![i5-8th-gen](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![gtx-1060](https://img.shields.io/badge/NVIDIA-GTX_1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/arch-linux-4e2a8e?style=for-the-badge&logo=linux&logoColor=white)
-![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-
 ## 📈 Stats
 
 <div align="center">
@@ -114,11 +93,10 @@
 [![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/brahyanpro)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/BrahyanPro)
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://brahyanpro.vercel.app/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brahyanprord/)
 <!-- [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/tapajyoti-bose.appspot.com/o/Tapajyoti%20Bose.pdf?alt=media&token=68b3f3e3-cf56-4666-b4fa-9897c80eec2e)
-[![upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c12e516ee1d35044)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tapajyoti-bose-429a601a0/) -->
 
 <!-- [![medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://tapajyotibose.medium.com/) -->
 
 <!-- [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/ruppysuppy) -->
-<!-- [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tapajyotib/) -->
