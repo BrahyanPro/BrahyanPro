@@ -2,7 +2,7 @@
 
 ## 🔥 Sobre Mí
 
-Soy Brahyan Martínez, el Blade of King del desarrollo web, especializado en React, Vue y Angular. Mi misión es transformar ideas en experiencias digitales cautivadoras. Si buscas la excelencia en el mundo del desarrollo, únete a este viaje.
+Soy Brahyan Martínez, el Blade of King del desarrollo web, especializado en React, Vue y Angular. Mi misión es transformar ideas en experiencias digitales cautivadoras. Si buscas la excelencia en el mundo del desarrollo, te gustara mi viaje.
 
 ### 💻 Habilidades Destacadas
 
