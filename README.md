@@ -21,9 +21,8 @@ En cada línea de código, busco la verdad y la belleza. Como un diálogo entre 
 *   **Programación:** Resolviendo enigmas con ingenio.
 *   **Aprendizaje:** Una odisea constante en busca de conocimiento.
 *   **Tecnología y Humanidad:** Conectando el mundo digital con la realidad tangible.
-*   **Fútbol:** Pasión por el deporte, admiración por Messi, celebrando cada gol.
+*   **Fútbol:** Pasión por el deporte, admiración por Messi, Hala Madrid, nada es más grande que el bicho y celebrando cada gol.
 *   **Anime:** El one piece existe!!!!!!!!!.
-*   
 
 ### 🌠 Aspiración
 
