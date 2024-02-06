@@ -102,7 +102,6 @@ En cada línea de código, persigo la esencia y la estética. Como un diálogo e
 
 *   **Programación:** Resolviendo enigmas con ingenio.
 *   **Aprendizaje:** Una odisea constante en busca de conocimiento.
-*   **Tecnología y Humanidad:** Conectando el mundo digital con la realidad tangible.
 *   **Fútbol:** Pasión por el deporte, admiración por Messi, Hala Madrid, nada es más grande que el bicho y celebrando cada gol.
 *   **Anime:** El one piece existe!!!!!!!!!.
 
